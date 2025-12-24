@@ -20,7 +20,7 @@
 
 # Data Categories
 <h3> Lihat Data Get Category </h3>
-<img width="900" height="1080" alt="GET CATEGORY" src="https://github.com/user-attachments/assets/12b51529-c63f-4426-bfc2-b9774c92d951" />
+<img width="900" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f19f773-0019-4838-ad76-f64de476465a" />
 <h3> Lihat Data Delete Category </h3>
 <img width="900" height="1080" alt="DELETE CATEGORY" src="https://github.com/user-attachments/assets/ad944577-e441-458c-bf13-f14d3c8120e3" />
 <h3> Lihat Data Get ID Category </h3>
